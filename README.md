@@ -7,7 +7,7 @@ Table of Contents
   * [Installation](#notebooks-installation)
     * [Install git](#install-git)
     * [Run Notebooks](#run-notebooks)
-  * [Part 1: Introduction](Intro-Relation-DB)
+  * [Part 1: Introduction](Intro-Relation-DB.ipynb)
       * 1.1 What is a Database
       * 1.2 How do we structure application data? 
       * 1.3 Relational Database Features

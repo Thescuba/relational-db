@@ -1,5 +1,5 @@
 # Introduction to Relational Databases
-Thought the year I had done SQL courses and would just speed my way though the course and passing all the quiz. While I felt that I could understand the logic behind what I was doing with SQL, I found that I would forget the logic just as quickly as I learned it. These notebooks are my note from the class where I try to learn the ins and out of SQL where I experience to see what my query may be actually doing. Feel free to take that class yourself as it is offered free on [Udacity](https://classroom.udacity.com/courses/ud197/)
+I have sped my way though SQL coures and passing all the quiz and I felt that I could understand the logic behind what I was doing with SQLbut found that I would forget the logic just as quickly as I learned it. These notebooks are my note from the class where I try to learn the ins and out of SQL where I experience to see what my query may be actually doing. Feel free to take that class yourself as it is offered free on [Udacity](https://classroom.udacity.com/courses/ud197/)
  
 Table of Contents
 =================

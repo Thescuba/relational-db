@@ -23,6 +23,7 @@ Table of Contents
       * 2.3 Select Clasuses
       * 2.4 Simliar SQL and Python Operations
       * 2.5 Why use Databases? 
+  * [Part 3: Connect Python Code to SQL](Python-Database-API.ipynb)
 
       
 # Notebooks Installation
@@ -35,7 +36,7 @@ Follow the instructions at (https://git-scm.com/book/en/v2/Getting-Started-Insta
 ## Installing Virtual Machine
 1. Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   * You do not need the extension pack or the SDK. You do not need to launch VirtualBox after installing it; Vagrant will do that.
-# Install Vagrant
+## Install Vagrant
 1. Download [Vagrant](https://www.vagrantup.com/downloads.html)
   * The Installer may ask you to grant network permissions to Vagrant or make a firewall exception. Be sure to allow this.
 

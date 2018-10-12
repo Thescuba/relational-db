@@ -13,7 +13,7 @@ Table of Contents
     * [Starting up Virtual Machine](Starting-up-Virtual-Machine)
   * [Part 1: Introduction](Intro-Relation-DB.ipynb)
       * 1.1 What is a Database
-      * 1.2 How do we structure application data? 
+      * 1.2 How do we Structure Application Data? 
       * 1.3 Relational Database Features
       * 1.4 Looking at Tables
       * 1.5 Relating Tables
@@ -24,6 +24,8 @@ Table of Contents
       * 2.4 Simliar SQL and Python Operations
       * 2.5 Why use Databases? 
   * [Part 3: Connect Python Code to SQL](Python-Database-API.ipynb)
+      * 3.1 What is a DB-API?
+      * 3.2 Query Example
 
       
 # Notebooks Installation

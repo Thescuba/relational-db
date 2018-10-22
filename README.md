@@ -50,6 +50,7 @@ The VM(Virtual Machine) is a Linux server system that runs on top of your own co
 3. Go to the repository directory
 ## Starting up Virtual Machine
 1. Make sure that you are in the relation-db directory in terminal
-2. Run the command <mark>vagrant up</mark>
-3. When vagrant up is finished running, log into the machine with <mark>vagrant ssh</mark>
-4. To log out or exit, type exit (or Ctrl-D)
+2. Run the command `vagrant up`
+3. When vagrant up is finished running, log into the machine with `vagrant ssh`
+4. Run the command `cd /vagrant` to enter the shared directory
+5. To log out or exit, type exit (or Ctrl-D)

@@ -4,8 +4,11 @@
 
 from flask import Flask, request, redirect, url_for
 
-from forumdb_initial import get_posts, add_post
-
+#The following lines allow use to import get_posts and add_post from whichever forumdb version you would like.
+# from forumdb_initial import get_posts, add_post
+# from forumdb_step_one import get_posts, add_post
+# from forumdb_step_two import get_posts, add_post
+from forumdb_solved import get_posts, add_post
 app = Flask(__name__)
 
 # HTML template for the forum page

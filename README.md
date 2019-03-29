@@ -26,7 +26,11 @@ Table of Contents
   * [Part 3: Connect Python Code to SQL](Python-Database-API.ipynb)
       * 3.1 What is a DB-API?
       * 3.2 Query Example
-
+      * 3.3 Query and Create Tables
+      * 3.4 Running a Web Forum
+      * 3.5 Hello PSQL
+      * 3.6 Give that App a Backend
+      * 3.7 Stop Spam
       
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several

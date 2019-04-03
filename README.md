@@ -31,6 +31,14 @@ Table of Contents
       * 3.5 Hello PSQL
       * 3.6 Give that App a Backend
       * 3.7 Stop Spam
+  * [Part 4: Deeper Into SQL](Deeper-Into-SQL.ipynb)
+      * 4.1 Nomalized Design
+      * 4.2 Create Table and Types
+      * 4.3 Declaring Primary Key
+      * 4.4 Declaring Relationships
+      * 4.5 Self Join
+      * 4.6 Subqueries
+      * 4.7 Views
       
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several

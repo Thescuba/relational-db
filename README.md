@@ -9,7 +9,7 @@ Table of Contents
     * [Install VirtuaBox](#installing-virtual-machine)
     * [Install Vagrant](#Install-Vagrant)
   * [Getting Started](#getting-started)
-    * [Run Notebooks](#run-notebooks))
+    * [Run Notebooks](#run-notebooks)
     * [Starting up Virtual Machine](Starting-up-Virtual-Machine)
   * [Part 1: Introduction](Intro-Relation-DB.ipynb)
       * 1.1 What is a Database

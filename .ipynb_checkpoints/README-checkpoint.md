@@ -1,5 +1,5 @@
 # Introduction to Relational Databases
-I have sped my way though SQL coures and passing all the quiz and I felt that I could understand the logic behind what I was doing with SQLbut found that I would forget the logic just as quickly as I learned it. These notebooks are my note from the class where I try to learn the ins and out of SQL where I experience to see what my query may be actually doing. Feel free to take that class yourself as it is offered free on [Udacity](https://classroom.udacity.com/courses/ud197/)
+I have sped my way though SQL coures, passing all the quiz and I felt that I could understand the logic behind what I was doing with SQL but found that I would forget the logic just as quickly as I learned it. To help me retain my knowledge I wanted to document my experiements and try to see if I would be able to explain and teach the topics to others. These notebooks are my note from the class with my supplimental experiments. Each not book ends with a quiz section that highlights the important topics in the lessson. Solutions to the quiz selection can be found in the notebooks ending with solutions. Feel free to take original class yourself for free on [Udacity](https://classroom.udacity.com/courses/ud197/).
  
 Table of Contents
 =================
@@ -9,7 +9,7 @@ Table of Contents
     * [Install VirtuaBox](#installing-virtual-machine)
     * [Install Vagrant](#Install-Vagrant)
   * [Getting Started](#getting-started)
-    * [Run Notebooks](#run-notebooks))
+    * [Run Notebooks](#run-notebooks)
     * [Starting up Virtual Machine](Starting-up-Virtual-Machine)
   * [Part 1: Introduction](Intro-Relation-DB.ipynb)
       * 1.1 What is a Database
